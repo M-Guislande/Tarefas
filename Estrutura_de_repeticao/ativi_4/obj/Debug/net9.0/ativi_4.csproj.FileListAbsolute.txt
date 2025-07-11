@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\bin\Debug\net9.0\ativi_4.exe
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\bin\Debug\net9.0\ativi_4.deps.json
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\bin\Debug\net9.0\ativi_4.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\bin\Debug\net9.0\ativi_4.dll
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\bin\Debug\net9.0\ativi_4.pdb
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.dll
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\refint\ativi_4.dll
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.pdb
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ativi_4.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR_2025\atividade_aula5\ativi_4\obj\Debug\net9.0\ref\ativi_4.dll

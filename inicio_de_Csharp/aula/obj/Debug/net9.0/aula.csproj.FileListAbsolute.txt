@@ -1,0 +1,15 @@
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\bin\Debug\net9.0\aula.exe
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\bin\Debug\net9.0\aula.deps.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\bin\Debug\net9.0\aula.runtimeconfig.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\bin\Debug\net9.0\aula.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\bin\Debug\net9.0\aula.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.sourcelink.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\refint\aula.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\aula.genruntimeconfig.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2025\aula4\aula\obj\Debug\net9.0\ref\aula.dll
